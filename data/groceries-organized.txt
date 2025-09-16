@@ -1,0 +1,69 @@
+Here is the categorized and sorted list of grocery items:
+
+**Bakery**
+• Bread
+• Granola Bars
+• Oatmeal
+• Pasta
+• Rice
+
+**Beverages**
+• Almond milk (missing from original list, but added for completeness)
+• Coffee
+• Orange Juice
+• Soda
+• Tea
+• Yogurt (can be considered a beverage)
+
+**Dairy**
+• Butter
+• Cheese
+• Eggs
+• Milk
+
+**Frozen**
+• Ice Cream
+• Shrimp
+
+**Household Items**
+• Dish Soap
+• Laundry Detergent
+• Paper Towels
+• Toilet Paper
+• Toothpaste
+
+**Meat/Fish/Poultry**
+• Chicken Breast
+• Ground Beef
+• Salmon
+• Sausages
+• Shrimp
+
+**Produce**
+• Apples
+• Bananas
+• Bell Peppers
+• Broccoli
+• Carrots
+• Garlic
+• Lettuce
+• Mushrooms
+• Onions
+• Potatoes
+• Spinach
+• Strawberries
+• Tomatoes
+
+**Snacks**
+• Almonds
+• Chips
+• Cereal
+• Granola Bars
+• Peanut Butter
+• Strawberries (can also be considered Produce)
+
+**Miscellaneous**
+• Coffee (can also be classified as a Beverage)
+• Flour
+• Honey
+• Olive Oil
